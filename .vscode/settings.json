@@ -1,0 +1,6 @@
+{
+  "github.copilot.chat.backgroundAgent.enabled": true,
+  "github.copilot.chat.agent.currentEditorContext.enabled": false,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "github.copilot.chat.agent.terminalProfile": "zsh"
+}
