@@ -11,7 +11,7 @@ If you discover a vulnerability, misuse scenario, or potential safety bypass in 
 
 **Please do not open a public issue.** Instead, report the vulnerability via email to:
 
-**[thirstyworld78@gamil.com]**   <!-- Replace with your actual contact email -->
+**thirstyworld78@gamil.com**   <!-- Replace with your actual contact email -->
 
 We will acknowledge your report within 48 hours and provide a timeline for resolution. We practice coordinated disclosure; once a fix is ready, we will credit you (if desired) in the release notes.
 
@@ -44,4 +44,4 @@ We recommend always using the latest version of the `agent.md` from the `main` b
 
 ## Acknowledgments
 
-We thank the security community for responsibly disclosing any issues. A list of credited researchers can be found in our [ACKNOWLEDGMENTS](ACKNOWLEDGMENTS) file.
+We thank the security community for responsibly disclosing any issues. A list of credited researchers can be found in our [ACKNOWLEDGMENTS](ACKNOWLEDGMENTS.md) file.
