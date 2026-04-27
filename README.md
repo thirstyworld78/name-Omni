@@ -64,10 +64,13 @@ Omni never leaves you waiting: it streams results in real time, reports progress
 ---
 
 ## Setup
-   **Prerequisites**
+
+1. **Prerequisites**
    - A running **HexStrike MCP server** (provides the 150+ tools).
    - VSCode with the **GitHub Copilot** agent mode enabled.
-   - A workspace configured to use the included `.github/agents/omni.agent.md` as the system prompt.
-     
-# name-Omni
-Autonomous Red Team Lead &amp; Bug Bounty Hunter powered by HexStrike MCP. Streaming pipeline, priority scoring, recursive recon, protocol desync, race conditions, GraphQL abuse, SSO exploits, and auto HackerOne reporting with manual PoC, CVSS, and evidence capture. 150+ tools, AI attack suites, business logic abuse, auto screenshots, CVSS.
+   - A workspace configured to use the included `agent.md` as the system prompt.
+
+2. **Installation**
+   ```bash
+   git clone https://github.com/thirstyworld78/name-Omni.git
+   cd name-Omni
